@@ -13,49 +13,49 @@ export const businessData = {
   reviewsCount: "64",
   openingHours: "Show open hours for the week",
   logo: "/images/logo.png",
-  images: ["/images/gmap_1779966440993_0.jpg", "/images/gmap_1779966441322_1.jpg", "/images/gmap_1779966441626_2.jpg", "/images/gmap_1779966442090_3.jpg", "/images/gmap_1779966442356_4.jpg", "/images/gmap_1779966442770_5.jpg", "/images/gmap_1779966443017_6.jpg", "/images/website_0.jpg"],
+  images: ["/images/gmap_1779967934747_0.jpg", "/images/gmap_1779967935111_1.jpg", "/images/gmap_1779967935448_2.jpg", "/images/gmap_1779967935614_3.jpg", "/images/gmap_1779967935834_4.jpg", "/images/gmap_1779967936130_5.jpg", "/images/gmap_1779967936238_6.jpg", "/images/website_0.jpg"],
   description: "",
   socials: {"facebook":"https://www.facebook.com/golawalaofficial","instagram":"https://www.instagram.com/golawala_official/?igsh=Y3Nvc3N0OHA0NGFq","whatsapp":"https://api.whatsapp.com/send/?phone=919824318583&text&type=phone_number&app_absent=0"},
 };
 
 export const aiContent = {
   tagline: "Gola wala's Science City Delights",
-  heroDescription: "Experience the ultimate ice cream destination at Gola wala, located in the heart of Science City, Ahmedabad. Our unique flavors and refreshing treats will leave you wanting more. Visit us today at GF-08, Atlantis one, opp. Hirashs arcade, nr. SAGAR SANGEET COMPLEX!",
-  aboutTitle: "The Story Behind Gola wala",
-  aboutText: "Gola wala is nestled in the vibrant Science City area of Ahmedabad, at GF-08, Atlantis one, where the city's energy meets our passion for ice cream. Our shop is a must-visit destination for anyone looking to beat the heat with a cool treat. With a wide range of flavors to choose from, we cater to all taste buds. Our mission is to provide the highest quality ice cream and exceptional customer service to our valued customers.",
+  heroDescription: "Indulge in the coolest treats at Gola wala, located in the heart of Science City, Ahmedabad. Our ice cream shop offers a wide range of flavors to beat the heat. Visit us today at GF-08, Atlantis one, opp. Hirashs arcade, nr. SAGAR SANGEET COMPLEX, and taste the difference!",
+  aboutTitle: "The Story of Gola wala",
+  aboutText: "Located in the vibrant area of Science City, Ahmedabad, Gola wala has been a favorite among locals and visitors alike. Our address at  GF-08, Atlantis one, opp. Hirashs arcade, nr. SAGAR SANGEET COMPLEX, makes us easily accessible to all. We take pride in serving unique and delicious ice cream flavors that cater to all tastes. Our mission is to provide a refreshing experience to our customers, making us a must-visit destination in the city.",
   services: [
-    { icon: "🍦", title: "Gola wala Special", description: "Indulge in our signature ice cream flavor, made with the finest ingredients and a touch of love." },
-    { icon: "🌴", title: "Summer Coolers", description: "Beat the heat with our refreshing summer coolers, perfect for hot days in Ahmedabad." },
-    { icon: "👥", title: "Party Packs", description: "Make your party a success with our customizable party packs, filled with a variety of ice cream flavors." },
-    { icon: "🎂", title: "Birthday Treats", description: "Celebrate your special day with our delicious birthday treats, designed to make your day even sweeter." },
-    { icon: "👫", title: "Couple's Delight", description: "Enjoy a romantic treat with your loved one, featuring our unique couple's ice cream flavors." },
-    { icon: "🏙️", title: "Science City Specials", description: "Experience the flavors of Science City with our special ice cream flavors, inspired by the city's vibrant culture." }
+    { icon: "🍦", title: "Gola wala Special", description: "Our signature ice cream flavor, made with the finest ingredients and a touch of love" },
+    { icon: "🌮", title: "Falooda", description: "A classic Indian dessert, crafted with creamy ice cream, vermicelli, and a hint of cardamom" },
+    { icon: "🍦", title: "Kulfi", description: "Traditional Indian ice cream, made with milk, cream, and a blend of spices, served in a variety of flavors" },
+    { icon: "🥤", title: "Milkshakes", description: "Thick, creamy, and indulgent, our milkshakes are the perfect treat to satisfy your cravings" },
+    { icon: "🍭", title: "Sundaes", description: "A decadent combination of ice cream, toppings, and sauces, creating a delightful treat for your taste buds" },
+    { icon: "🎂", title: "Ice Cream Cakes", description: "Customizable cakes, made with our signature ice cream, perfect for special occasions and celebrations" }
   ],
   whyChooseUs: [
-    { icon: "💯", title: "Quality Guarantee", description: "We use only the finest ingredients to ensure our ice cream is of the highest quality." },
-    { icon: "👨‍💼", title: "Exceptional Service", description: "Our friendly staff are dedicated to providing exceptional customer service, making your visit a memorable one." },
-    { icon: "🌟", title: "Unique Flavors", description: "Our ice cream flavors are carefully crafted to provide a unique and delicious experience for our customers." },
-    { icon: "👍", title: "Locally Loved", description: "We are proud to be a part of the Science City community, and our customers love us for our commitment to quality and service." }
+    { icon: "👍", title: "Unique Flavors", description: "We offer a wide range of unique and delicious flavors, crafted with love and care to satisfy your taste buds" },
+    { icon: "🏙️", title: "Prime Location", description: "Located in the heart of Science City, Ahmedabad, we are easily accessible to all, making us a perfect destination for a quick treat or a leisurely outing" },
+    { icon: "👫", title: "Friendly Service", description: "Our staff is dedicated to providing exceptional customer service, ensuring that you have a wonderful experience at Gola wala" },
+    { icon: "👌", title: "Quality Ingredients", description: "We use only the finest ingredients, sourced from trusted suppliers, to craft our delicious ice cream flavors" }
   ],
   testimonials: [
-    { name: "Palak Jain", role: "Regular Customer", text: "I've been visiting Gola wala for months now, and their ice cream never fails to impress. The Gola wala Special is my favorite!", rating: 5 },
-    { name: "Pankaj Mehta", role: "Party Organizer", text: "Gola wala's party packs were a hit at my friend's birthday party. The variety of flavors and excellent service made the event a success.", rating: 5 },
-    { name: "Prachi Shah", role: "Food Blogger", text: "As a food blogger, I've tried many ice cream shops in Ahmedabad, but Gola wala stands out for its unique flavors and exceptional service. The Summer Coolers are a must-try!", rating: 5 }
+    { name: "Jaya Mehta", role: "Local Resident", text: "I've been a regular at Gola wala for years, and their ice cream never fails to impress. The Gola wala Special is my favorite!", rating: 5 },
+    { name: "Jatin Shah", role: "Tourist", text: "I stumbled upon Gola wala while exploring Science City, and I'm so glad I did. Their Falooda is a must-try!", rating: 5 },
+    { name: "Jaspreet Kaur", role: "Food Blogger", text: "Gola wala's unique flavors and friendly service make it a standout in the city. I highly recommend their Milkshakes!", rating: 5 }
   ],
-  portfolio: { categories: [{ name: "Ice Cream Flavors", items: [{ title: "Gola wala Special", description: "Our signature ice cream flavor", icon: "🍦" }, { title: "Mango Madness", description: "A sweet and tangy mango ice cream flavor", icon: "🥭" }, { title: "Chocolate Chip", description: "A classic chocolate ice cream flavor with a twist", icon: "🍫" }] },
-    { name: "Cakes and Desserts", items: [{ title: "Ice Cream Cake", description: "A customizable ice cream cake for special occasions", icon: "🎂" }, { title: "Brownie Sundae", description: "A rich and decadent brownie sundae with ice cream", icon: "🍪" }, { title: "Fruit Salad", description: "A refreshing fruit salad with a scoop of ice cream", icon: "🍓" }] },
-    { name: "Special Offers", items: [{ title: "Happy Hour", description: "Discounted ice cream prices during happy hour", icon: "🕰️" }, { title: "Loyalty Program", description: "Earn points for every purchase and redeem rewards", icon: "📈" }, { title: "Gift Vouchers", description: "Purchase gift vouchers for friends and family", icon: "🎁" }] },
-    { name: "Events and Parties", items: [{ title: "Birthday Parties", description: "Host your child's birthday party at Gola wala", icon: "🎂" }, { title: "Corporate Events", description: "Customize ice cream packages for your corporate event", icon: "📊" }, { title: "Wedding Functions", description: "Make your wedding function a sweet success with Gola wala", icon: "💕" }] }] },
-  faq: { items: [{ question: "What are the business hours of Gola wala?", answer: "Gola wala is open from 11am to 11pm, 7 days a week." },
-    { question: "Do you offer customized ice cream flavors for parties?", answer: "Yes, we offer customized ice cream flavors for parties and events. Please contact us for more information." },
-    { question: "Can I purchase gift vouchers at Gola wala?", answer: "Yes, you can purchase gift vouchers at Gola wala. They are available in various denominations and can be redeemed at our shop." },
-    { question: "Do you have a loyalty program?", answer: "Yes, we have a loyalty program that rewards our regular customers with points for every purchase. These points can be redeemed for free ice cream and other rewards." },
-    { question: "Can I place an order for delivery or takeout?", answer: "Yes, we offer delivery and takeout services. Please contact us for more information and to place your order." },
-    { question: "How can I get in touch with Gola wala?", answer: "You can contact us through our website, email, or phone. We are always happy to hear from our customers and help with any queries." }] },
-  ctaTitle: "Get Your Favorite Ice Cream Now",
-  ctaDescription: "Visit us today and indulge in the best ice cream in Science City. Our friendly staff are waiting to serve you!",
-  ctaButtonText: "Order Now",
-  metaDescription: "Gola wala: Science City's favorite ice cream destination",
+  portfolio: { categories: [{ name: "Ice Cream Flavors", items: [{ title: "Gola wala Special", description: "Our signature ice cream flavor, made with the finest ingredients", icon: "🍦" }, { title: "Kulfi", description: "Traditional Indian ice cream, made with milk, cream, and a blend of spices", icon: "🍦" }, { title: "Falooda", description: "A classic Indian dessert, crafted with creamy ice cream, vermicelli, and a hint of cardamom", icon: "🌮" }] },
+    { name: "Special Treats", items: [{ title: "Milkshakes", description: "Thick, creamy, and indulgent, our milkshakes are the perfect treat", icon: "🥤" }, { title: "Sundaes", description: "A decadent combination of ice cream, toppings, and sauces", icon: "🍭" }, { title: "Ice Cream Cakes", description: "Customizable cakes, made with our signature ice cream", icon: "🎂" }] },
+    { name: "Seasonal Offers", items: [{ title: "Summer Specials", description: "Refreshing flavors and treats to beat the heat", icon: "☀️" }, { title: "Winter Delights", description: "Warm and comforting flavors to enjoy during the winter months", icon: "❄️" }, { title: "Festive Offers", description: "Special flavors and discounts during festive seasons", icon: "🎉" }] },
+    { name: "Customer Favorites", items: [{ title: "Gola wala Special", description: "Our signature ice cream flavor, a customer favorite", icon: "🍦" }, { title: "Falooda", description: "A classic Indian dessert, loved by our customers", icon: "🌮" }, { title: "Kulfi", description: "Traditional Indian ice cream, a favorite among our patrons", icon: "🍦" }] }] },
+  faq: { items: [{ question: "What are the business hours of Gola wala?", answer: "We are open from 11am to 11pm, 7 days a week. Please note that hours may vary during festive seasons or special events." },
+    { question: "Do you offer customization options for ice cream cakes?", answer: "Yes, we offer customization options for ice cream cakes. Please contact us at least 24 hours in advance to place your order." },
+    { question: "Can I purchase Gola wala merchandise online?", answer: "Currently, our merchandise is only available for purchase in-store. However, we are working on making it available online soon." },
+    { question: "How do I get to Gola wala from the nearest metro station?", answer: "The nearest metro station is Science City. From there, take a short taxi ride or walk for about 10-15 minutes to reach our location at GF-08, Atlantis one, opp. Hirashs arcade, nr. SAGAR SANGEET COMPLEX." },
+    { question: "Do you offer any discounts or promotions?", answer: "Yes, we offer various discounts and promotions throughout the year. Follow us on social media or sign up for our newsletter to stay updated on our latest offers." },
+    { question: "Can I book a party or event at Gola wala?", answer: "Yes, we can accommodate parties and events. Please contact us at least 7 days in advance to discuss details and availability." }] },
+  ctaTitle: "Indulge in the Coolest Treats",
+  ctaDescription: "Visit us today and experience the unique flavors of Gola wala. We can't wait to serve you!",
+  ctaButtonText: "Get Your Treat",
+  metaDescription: "Gola wala: Ahmedabad's favorite ice cream shop",
 };
 
 export const siteConfig = {
